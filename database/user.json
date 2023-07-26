@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "gunda",
+      "email": "gunda@gmail.com",
+      "password": "gunda123",
+      "phone": "9876543219",
+      "dob": "01/01/2001",
+      "pic": "",
+      "gender": "",
+      "active_bookings": [
+        {
+          "ticket_no": 123,
+          "busname": "airavatha",
+          "busnumber": "KA014567",
+          "distance": "1000kms",
+          "seatno": [
+            "E5"
+          ],
+          "seats": "1",
+          "boarding": "bengaluru",
+          "departure": "Mumbai",
+          "boarding_time": "10:00 am",
+          "departure_time": "10:00 pm",
+          "journey_time": "10 hrs",
+          "price": "1000",
+          "date": "20/7/2023"
+        },
+        {
+          "busname": "udayaranga",
+          "busnumber": "KA01E456",
+          "seats": 1,
+          "from": "bengaluru",
+          "to": "male mahadeshwara hills",
+          "start": "5:45am",
+          "end": "10:45am",
+          "journey_time": "1",
+          "price": 300,
+          "date": "2023-05-31"
+        }
+      ],
+      "previous_bookings": []
+    }
+  ]
+}
